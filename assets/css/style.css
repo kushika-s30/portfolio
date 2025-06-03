@@ -136,6 +136,12 @@ a:hover{
     font-size: 1.7rem;
 }
 
+@media (max-width: 767.98px) {
+  .logo-name {
+    font-size: 1.3rem; 
+  }
+}
+
 .primary-bg-btn{
     color: var(--btn-color);
     background-color: var(--primary-color);
